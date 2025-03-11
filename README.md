@@ -14,7 +14,7 @@ Chatbot with pre-programmed questions and answers for a school task.
 
 Chatbot com perguntadas e respostas pré programadas para uma tarefa da escola.
 
-<i>Feito puramente com <b>HTML</b>, <b>CSS</b> e <b>JAVASCRIPT</b>.</i>
+<i>Feito puramente com <b>HTML</b>, <b>CSS</b>, e <b>JAVASCRIPT</b>.</i>
 
 - Certifique-se de manter os arquivos em suas pastas definidas
 - Coloque o arquivo <b>HTML</b> <i>"index.html"</i> em um navegador para rodar o site
