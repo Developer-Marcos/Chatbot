@@ -17,3 +17,7 @@ Chatbot com perguntadas e respostas pré programadas para uma tarefa da escola.
 
 - Certifique-se de manter os arquivos em suas pastas definidas
 - Coloque o arquivo <b>HTML</b> <i>"index.html"</i> em um navegador para rodar o site
+
+<hr>
+
+![video](Chatbot.gif)
