@@ -9,7 +9,6 @@ Chatbot with pre-programmed questions and answers for a school task.
 
 <hr>
 
-# Chatbot
 ###### Versão português 
 
 Chatbot com perguntadas e respostas pré programadas para uma tarefa da escola.
